@@ -1,0 +1,19 @@
+Sake Number,Geo,Joe,Laura,Sake Type,Alocohol Percentage,Sake meter value,Notes
+1,7,8,5,Junmai,13,-34,
+2,3,3,3,Junmai,17,,Nigorizake
+3,5,7,7,Daiginjo,15.5,3,
+4,7,8,8,Junmai Ginjo,15.5,1,
+5,6,7,9,Junmai Ginjo,15,3,
+6,9,8,7,Junmai Daiginjo,16,3,
+7,5,7,7,Junmai Daiginjo,15.5,,
+8,5,9,7,Junmai Ginjo,15,-3,
+9,7,9,9,Junmai,16,2,
+10,,6,7,Special Junmai,18,2,Dry
+11,,6,3,Special Junmai,15,3,Dry
+12,,7,5,Special Junmai,16,3,
+13,,5,6,Futsu,15.5,11,
+14,,6,7,Futsu,19,,
+15,,7,7,Futsu,16,3,
+16,,8,6,Futsu,19,0,
+17,,7,9,Daiginjo,16,0,
+18,,7,6,,,,
